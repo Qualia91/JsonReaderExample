@@ -1,0 +1,22 @@
+{
+  "client": [
+    {
+      "member": 12,
+      "group": "g1"
+    },
+    {
+      "member": 17,
+      "group": "g2"
+    }
+  ],
+  "client2": [
+    {
+      "member": 14,
+      "group": "g11"
+    },
+    {
+      "member": 175,
+      "group": "g22"
+    }
+  ]
+}
